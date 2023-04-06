@@ -1,4 +1,4 @@
-# Project Name
+# SOAP Web Service showcase
 
 This is a Java 11 and Maven-based project that provides a SOAP client for fetching data using an injected SOAP web service.
 
